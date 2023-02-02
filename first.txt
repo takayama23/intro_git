@@ -1,2 +1,4 @@
 Gitの練習
 基本的なワークロードを学びます
+・git add
+・git commit
